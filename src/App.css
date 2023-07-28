@@ -1,0 +1,32 @@
+
+
+.header-text{
+  text-align: center;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.696);
+  text-transform: uppercase;
+}
+
+.table-head{
+  background-color: rgba(0, 0, 0, 0.518);
+}
+
+.table-title{
+  font-size: 20px !important;
+  color: white !important;
+}
+
+.table-row{
+  background-color: #ac8d8d90 !important;
+}
+
+.table-text{
+  font-weight: bold !important;
+  font-size: 15px !important;
+}
+
+.text{
+  padding: 0 50px;
+  font-size: 20px;
+}
+
